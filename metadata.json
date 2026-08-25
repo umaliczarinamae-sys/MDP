@@ -1,0 +1,6 @@
+{
+  "name": "MDP Executive Leadership Assessment",
+  "description": "Executive Leadership Assessment with personalized Leadership Snapshot and Complimentary Executive Webinar Pass registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
